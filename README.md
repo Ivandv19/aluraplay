@@ -31,7 +31,7 @@ AluraPlay es una plataforma de videos educativos donde puedes encontrar una ampl
 - Desarrollado por [Ivan Cruz](https://www.linkedin.com/in/ivan-cruz-1906mx/).
 
 
-# Despliegue
+## Despliegue
 
 El sitio web está desplegado en Vercel y se puede acceder a través del siguiente enlace: [AluraPlay](https://aluraplay-rho-rosy.vercel.app/).
 
