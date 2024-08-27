@@ -9,7 +9,7 @@ AluraPlay es una plataforma de videos educativos donde puedes encontrar una ampl
 - Funcionalidades adicionales como lista de reproducción, historial de visualización, etc.
 
 ## Uso
-1. **Visualización del Proyecto:** Instala el repositorio de manera local o visita el enlace desplegado en [Vercel](https://aluraplay-rho-rosy.vercel.app/).
+1. **Visualización del Proyecto:** Instala el repositorio de manera local y abre el archivo `index.html` en tu navegador web o visita el enlace desplegado en [Vercel](https://aluraplay-rho-rosy.vercel.app/).
 2. **Explora el contenido:** Navega por las diferentes secciones usando el menú lateral.
 3. **Visualiza los videos:** Haz clic en los videos para reproducirlos.
 
