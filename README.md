@@ -22,7 +22,7 @@ AluraPlay es una plataforma de videos educativos donde puedes encontrar una ampl
 
 1. **Clonar el Repositorio:** Clona este repositorio en tu máquina local utilizando Git.
 ```bash
-https://github.com/IvandevI9/aluraplay.git
+https://github.com/Ivandv19/aluraplay.git
 ```
 2. Abre el archivo `index.html` en tu navegador web.
 
@@ -30,9 +30,8 @@ https://github.com/IvandevI9/aluraplay.git
 
 - Este proyecto fue desarrollado como parte de un ejercicio de desarrollo web.
 - Las imágenes utilizadas fueron obtenidas de recursos gratuitos de Internet.
-- Desarrollado por [Alura Latam](https://www.linkedin.com/company/alura-latam/).
 - Desarrollado por [Ivan Cruz](https://www.linkedin.com/in/ivan-cruz-1906mx/).
-
+- Desarrollado por [Alura Latam](https://www.linkedin.com/company/alura-latam/).
 
 ## Despliegue
 
